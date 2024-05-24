@@ -1,5 +1,9 @@
 # CRUD en Prisma
 
+### Nathaly Caballero: https://www.youtube.com/watch?v=TxPtvk-zrnQ
+
+### David Correa: https://youtu.be/xjgjxeX1VOg
+
 ## 1. Introducción
 
 Prisma es un ORM (Object-Relational Mapping) moderno para Node.js y TypeScript que facilita la gestión de bases de datos. Una de sus características más importantes es la capacidad de realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) de manera eficiente y tipada, simplificando la interacción con la base de datos.

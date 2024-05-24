@@ -1,5 +1,9 @@
 # Deploy en Prisma con Railway
 
+### Nathaly Caballero: https://www.youtube.com/watch?v=--3lhKQxzRo
+
+### David Correa: https://youtu.be/W6D3axbJipU
+
 ## 1. Introducción
 
 Railway es una plataforma en la nube que permite desplegar aplicaciones de manera sencilla. Junto con Prisma, proporciona una forma eficiente de gestionar y desplegar aplicaciones que interactúan con bases de datos. Este tutorial describe cómo realizar el deploy de una aplicación Prisma en Railway, utilizando una instancia de PostgreSQL y un repositorio de GitHub.

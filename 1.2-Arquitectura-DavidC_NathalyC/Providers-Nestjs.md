@@ -1,5 +1,9 @@
 # Providers en NestJS
 
+### Nathaly Caballero: https://www.youtube.com/watch?v=RbcGEfU27fY
+
+### David Correa: https://youtu.be/YYHKMym-r_w
+
 ## 1. Introducción
 
 En NestJS, los providers son una parte fundamental del sistema de inyección de dependencias del framework. Un tipo común de provider es el servicio (service), que encapsula la lógica de negocio y se utiliza para interactuar con otros componentes de la aplicación.

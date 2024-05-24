@@ -1,5 +1,9 @@
 # Creación de un Proyecto en Prisma
 
+### Nathaly Caballero: https://www.youtube.com/watch?v=zy3OmUqNDlw
+
+### David Correa: https://youtu.be/I-tJgsMR-fY
+
 ## 1. Introducción
 
 Prisma es un ORM (Object-Relational Mapping) moderno para Node.js y TypeScript, diseñado para facilitar la interacción con bases de datos. Proporciona una capa de abstracción que simplifica las consultas y mutaciones de datos, mejorando la productividad y reduciendo errores comunes.
