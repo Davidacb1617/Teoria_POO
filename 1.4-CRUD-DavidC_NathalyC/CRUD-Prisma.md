@@ -157,3 +157,7 @@ Prisma simplifica las operaciones CRUD mediante un enfoque tipado y eficiente, m
 - Prisma Best Practices for Node.js Developers: A Comprehensive Guide. (s. f.). https://codeit.mk/home/blog/Prisma-Best-Practices-for-Node.js-Developers--A-Comprehensive-Guide
 - Prisma | Simplify working and interacting with databases. (s. f.). Prisma. https://www.prisma.io/
 - Pratama, P. P. (2023, 17 septiembre). Getting Started with Prisma ORM in Nest.js: A Comprehensive Guide. Medium. https://medium.com/google-developer-indonesia/getting-started-with-prisma-orm-in-nest-js-a-comprehensive-guide-787bdb65c02e
+
+### Pull Request
+
+![](PullRequest.png)

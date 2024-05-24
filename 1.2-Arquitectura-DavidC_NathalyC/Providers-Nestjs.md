@@ -118,3 +118,7 @@ NestJS, con su sistema de providers y servicios, facilita una arquitectura modul
 - Alvarez, A. (2022). Manual de Nest [Libro digital]. https://desarrolloweb.com/articulos/variables-entorno-configuracion-nest
 - Singh, C. (2023, 8 diciembre). Building Scalable and Maintainable Server-Side Applications with NestJS. Medium. https://medium.com/@chandrashekharsingh25/building-scalable-and-maintainable-server-side-applications-with-nestjs-e079fa03ddae
 - NestJS - A progressive Node.js framework. (s. f.-b). NestJS - A Progressive Node.js Framework. https://nestjs.com/
+
+### Pull Request
+
+![](PullRequest.png)

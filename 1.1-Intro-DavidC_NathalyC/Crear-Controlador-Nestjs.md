@@ -125,3 +125,7 @@ NestJS, con su enfoque modular y basado en decoradores, permite una estructura c
 - De las Tecnologías de la Información y las Comunicaciones - Universidad de Almería, S. (s. f.). Introducción a NestJS. https://ualmtorres.github.io/SeminarioNestJS/?ref=reactivisima.com
 
 ---
+
+### Pull Request
+
+![](PullRequest.png)

@@ -130,3 +130,7 @@ Railway y Prisma proporcionan una solución potente y sencilla para el despliegu
 - Pratama, P. P. (2023, 17 septiembre). Getting Started with Prisma ORM in Nest.js: A Comprehensive Guide. Medium. https://medium.com/google-developer-indonesia/getting-started-with-prisma-orm-in-nest-js-a-comprehensive-guide-787bdb65c02e
 - Kale, V., & Akshay. (2024, 22 mayo). Mastering Prisma ORM in Node.js: A Comprehensive Guide. Mindbowser. https://www.mindbowser.com/prisma-orm-nodejs-development-guide/
 - Railway. (s. f.). Railway. https://railway.app/
+
+### Pull Request
+
+![](PullRequest.png)

@@ -141,3 +141,7 @@ Prisma simplifica el desarrollo de aplicaciones al proporcionar herramientas pod
 - Prisma | Simplify working and interacting with databases. (s. f.). Prisma. https://www.prisma.io/
 - Kale, V., & Akshay. (2024, 22 mayo). Mastering Prisma ORM in Node.js: A Comprehensive Guide. Mindbowser. https://www.mindbowser.com/prisma-orm-nodejs-development-guide/
 - Prisma Best Practices for Node.js Developers: A Comprehensive Guide. (s. f.). https://codeit.mk/home/blog/Prisma-Best-Practices-for-Node.js-Developers--A-Comprehensive-Guide
+
+### Pull Request
+
+![](PullRequest.png)
